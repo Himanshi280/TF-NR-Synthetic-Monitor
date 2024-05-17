@@ -1,0 +1,3 @@
+variable "synthetic" {
+  type = any
+}
